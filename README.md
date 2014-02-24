@@ -3,7 +3,7 @@ Next Round / Spacebrew Tutorial
 
 **In this tutorial, we’ll build a system to connect a beer coaster with an LED display and speajer to warn the waiter that the next round should be brought.**
 
-
+![alt tag](https://raw.github.com/bschorr/nextRound/screenshots/screenshots/mainImage.png)
 
 ####Software you'll need
 
