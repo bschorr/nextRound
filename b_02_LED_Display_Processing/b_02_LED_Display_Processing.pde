@@ -14,7 +14,7 @@ import processing.serial.*;
 
 //setting up server, name and description for spacebrew connection
 String server="sandbox.spacebrew.cc";
-String name="BerGusSteph_ProcessingToArduino";
+String name="nextround_leds";
 String description ="Range to LEDs";
 
 //values in the arduino are 2 to 11 in this case. 

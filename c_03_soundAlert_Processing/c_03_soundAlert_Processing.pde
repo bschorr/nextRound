@@ -14,8 +14,8 @@ import processing.serial.*;
 
 //setting up server, name and description for spacebrew connection
 String server="sandbox.spacebrew.cc";
-String name="ProcessingToArduino";
-String description ="Range to LEDs";
+String name="nextround_sound";
+String description ="Range to Alarm";
 
 //values in the arduino are 2 to 11 in this case. 
 //This variable holds the mapped value from 0-1023 range to the 2-11 range.
@@ -33,7 +33,7 @@ void setup() {
   sb = new Spacebrew( this );
 
   // adding the range and the on/off button
-  sb.addSubscribe( "remote_LEDs", "range" );
+  sb.addSubscribe( "remote_sound", "range" );
 
   // connect!
   sb.connect("ws://"+server+":9000", name, description );

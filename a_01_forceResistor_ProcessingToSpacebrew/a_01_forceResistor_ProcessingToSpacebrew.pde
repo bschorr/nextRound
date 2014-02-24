@@ -17,7 +17,7 @@ import processing.serial.*;
 
 // define the spacebrew server location, app name and description
 String server = "sandbox.spacebrew.cc";
-String name = "coaster";
+String name = "nextround_coaster";
 String description = "Force Senstive Resistor";
 
 Spacebrew sb;     // Spacebrew connection object
