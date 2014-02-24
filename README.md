@@ -3,7 +3,7 @@ Next Round / Spacebrew Tutorial
 
 **In this tutorial, we’ll build a system to connect a beer coaster with an LED display and speaker to warn the waiter that the next round of drinks should be brought.**
 
-![alt tag](https://raw.github.com/bschorr/nextRound/screenshots/screenshots/mainImage.png)
+![alt tag](https://raw.github.com/bschorr/nextRound/screenshots/screenshots/mainImage.jpg)
 
 The idea of this project is that bars and/or restaurants would be able to keep track of their customer's drinking behavior. If the customer's glass are about to get empty so waiters can fill them up or even suggest another drink. The product is based on a coaster with a Force Sensitive Resistor (FSR) under it, that sends data to a display of LEDs and speakers that receive the data and make noise to alert the waiters. It also avoids waiters coming over to check if “everything is alright”.
 
@@ -42,6 +42,14 @@ In the ZIP file, you'll find 6 thoroughly commented sketches (3 processing and 3
 ####Building the circuits
 
 The images below show the schematics for each of the 3 circuits, with pictures of our own implementations of each of them. Get creative and build your own!
+#####Pressure sensor
+![alt tag](https://raw.github.com/bschorr/nextRound/screenshots/screenshots/pressureSensor.png)
+
+#####LED Display
+![alt tag](https://raw.github.com/bschorr/nextRound/screenshots/screenshots/ledDisplay.png)
+
+#####Speaker
+![alt tag](https://raw.github.com/bschorr/nextRound/screenshots/screenshots/speaker.png)
 
 ####Finishing touches
 Once your hardware is ready, upload the corresponding arduino code to each of your 3 arduinos connected to the corresponding circuits. 
