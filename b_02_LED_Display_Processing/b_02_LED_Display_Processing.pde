@@ -64,7 +64,7 @@ void draw() {
 void onRangeMessage( String name, int value ) {
   
   //map values from 0-1023 to 2-11
-  sendValueToArduino = int (map (value, 620, 820, 2, 11));
+  sendValueToArduino = int (map (value, 620, 780, 3, 11));
   
   //print mapped values to console and send them to Arduino via serial.
   println ("got range message " + name + " : " + sendValueToArduino);
