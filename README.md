@@ -13,7 +13,7 @@ The idea of this project is that bars and/or restaurants would be able to keep t
 - [Arduino](http://www.arduino.cc)
 - [SpacebrewP5 library](https://github.com/Spacebrew/spacebrewP5)
 
-Install SpacebrewP5 copying the folder inside spacebrewP5/dist/spacebrew to your Processing library folder. If you never went through this process before, you can take a look to this [video tutorial](http://www.youtube.com/watch?v=SRRQoQ2I3A8) by Kyle Macmillain.
+Install SpacebrewP5 copying the folder inside spacebrewP5/dist/spacebrew to your Processing library folder. If you never went through this process before, you can take a look in this [video tutorial](http://www.youtube.com/watch?v=SRRQoQ2I3A8) by Kyle Macmillain.
 
 
 ####Hardware you'll need
@@ -46,7 +46,7 @@ The images below show the schematics for each of the 3 circuits, with pictures o
 ![alt tag](https://raw.github.com/bschorr/nextRound/screenshots/screenshots/pressureSensor.png)
 
 #####LED Display
-![alt tag](https://raw.github.com/bschorr/nextRound/screenshots/screenshots/ledDisplay.png)
+![alt tag](https://raw.github.com/bschorr/nextRound/screenshots/screenshots/ledDisplay.jpg)
 
 #####Speaker
 ![alt tag](https://raw.github.com/bschorr/nextRound/screenshots/screenshots/speaker.png)
