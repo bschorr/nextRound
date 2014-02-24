@@ -32,8 +32,6 @@ void setup() {
 
   sb = new Spacebrew( this );
 
-  sb.addPublish( "isWaiting", isWaiting ); 
-
   // adding the range and the on/off button
   sb.addSubscribe( "remote_LEDs", "range" );
 
@@ -58,7 +56,6 @@ void setup() {
 
 void draw() {
   
-  background (myColor);
 //Nothing done here!
 //see description at the top.
 }
