@@ -59,6 +59,7 @@ Once your hardware is ready, upload the corresponding arduino code to each of yo
 Once your arduinos are wired and with code uploaded, you can plug them to the 3 different computers. You should now run the corresponding Processing sketch in each of these computers. Once you do so, your Spacebrew instances will appear in the [Spacebrew Sandbox website](http://spacebrew.github.io/spacebrew/admin/admin.html?server=sandbox.spacebrew.cc).
 
 Once you are in the Spacebrew Sandbox page, you can connect the 3 instances as following:
+![alt tag](https://raw.github.com/bschorr/nextRound/screenshots/screenshots/spacebrew.png)
 
 ###And you're ready to go!
 
