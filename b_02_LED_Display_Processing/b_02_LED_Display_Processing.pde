@@ -50,7 +50,7 @@ void setup() {
   //to determine which index your Arduino is at.
   //You can check that by going to your Arduino software and checking 
   //Tools > Serial Port
-  myPort = new Serial(this, Serial.list()[9], 9600); 
+  myPort = new Serial(this, Serial.list()[(Serial.list().length-1)], 9600); 
   myPort.bufferUntil('\n');
 }
 
@@ -64,7 +64,7 @@ void draw() {
 void onRangeMessage( String name, int value ) {
   
   //map values from 0-1023 to 2-11
-  sendValueToArduino = int (map (value, 290, 800, 2, 11));
+  sendValueToArduino = int (map (value, 620, 820, 2, 11));
   
   //print mapped values to console and send them to Arduino via serial.
   println ("got range message " + name + " : " + sendValueToArduino);
