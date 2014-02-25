@@ -5,7 +5,7 @@ Next Round / Spacebrew Tutorial
 
 ![alt tag](https://raw.github.com/bschorr/nextRound/screenshots/screenshots/mainImage.jpg)
 
-The idea of this project is that bars and/or restaurants would be able to keep track of their customer's drinking behavior. If the customer's glass is about to get empty, waiters can fill them up or suggest another drink. The product is based on a coaster with a Force Sensitive Resistor (FSR) under it, that sends data to a display of LEDs and speakers that receive the data and make noise to alert the waiters. It also avoids waiters coming over to check if “everything is alright”.
+The idea of this project is that bars and/or restaurants would be able to keep track of their customer's drinking behavior. If the customer's glass is about to get empty, waiters can fill them up or suggest another drink. The product is based on a coaster with a Force Sensitive Resistor (FSR) under it, that sends data to a display of LEDs and speakers that receive the data and make noise to alert the waiters. It also avoids waiters coming over to see if “everything is alright”. Check out our video [here](http://vimeo.com/87528084)
 
 ####Software you'll need
 
