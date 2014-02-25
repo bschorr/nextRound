@@ -12,19 +12,23 @@ The idea of this project is that bars and/or restaurants would be able to keep t
 - [Processing](http://www.processing.org)
 - [Arduino](http://www.arduino.cc)
 - [SpacebrewP5 library](https://github.com/Spacebrew/spacebrewP5)
+- [SFEMP3Shield Library](https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library)
 
 Install SpacebrewP5 copying the folder inside spacebrewP5/dist/spacebrew to your Processing library folder. If you never went through this process before, you can take a look in this [video tutorial](http://www.youtube.com/watch?v=SRRQoQ2I3A8) by Kyle Macmillain.
 
 
 ####Hardware you'll need
 - 3 [Arduino UNOs](https://www.sparkfun.com/products/11021)
+- 3 USB cables
 - Some building materials (cardboard, foamboard, balsa wood)
-- a pressure sensor, similar to [this one]( http://www.adafruit.com/products/1075).
-- A glass coaster
+- A pressure sensor, similar to [this one]( http://www.adafruit.com/products/1075)
+- A glass / cardboard coaster
 - 9 LEDs of different colors
-- An MP3 player shield like [this one](https://www.sparkfun.com/products/10628).
-- A speaker with a P2 connection of your choice.
-- wires and solder
+- An MP3 player shield like [this one](https://www.sparkfun.com/products/10628)
+- A speaker with a P2 connection of your choice
+- A micro SD Card and reader
+- 3 mp3 files
+- Wires, solder and a breadboard
 
 ####Downloading the code
 
